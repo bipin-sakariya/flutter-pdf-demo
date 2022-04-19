@@ -1,0 +1,4 @@
+#Tue Apr 19 18:35:48 IST 2022
+base.0=/Users/mac/Documents/FlutterProjects/demo/flutter_pdf_creater/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
