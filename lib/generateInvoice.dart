@@ -287,7 +287,7 @@ class Invoice {
       pw.Text("BSB: 015-600"),
       pw.SizedBox(height: 4),
       pw.Text("Account: 8974561"),
-      pw.SizedBox(height: 18),
+      pw.SizedBox(height: 10),
       pw.Row(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [pw.Text("Pay via PayPal to:\nEmail Address Here"), pw.Text("Thank you!\nIt's been a pleasure working with you this month.")])
